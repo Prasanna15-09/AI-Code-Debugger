@@ -1,6 +1,6 @@
 # AI Code Debugger
 
-Minimal full-stack MVP — React frontend + Node/Express backend + Claude API.
+Minimal full-stack MVP — React frontend + Node/Express backend + Groq API.
 
 ## Project Structure
 
